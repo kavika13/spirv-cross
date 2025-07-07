@@ -1,5 +1,6 @@
 .{
-    .name = "spirv-cross",
+    .name = .spirv_cross,
+    .fingerprint = 0x7ea1d83c672f612,
     .version = "0.1.0",
     .paths = .{
         "GLSL.std.450.h",
